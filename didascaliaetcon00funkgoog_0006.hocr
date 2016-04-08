@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./didascaliaetcon00funkgoog/didascaliaetcon00funkgoog_0006.png"; bbox 0 0 2457 3436; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 954 487 1498 571">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 954 487 1498 571">
+     <span class='ocr_line' id='line_1_1' title="bbox 954 487 1498 571; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 954 487 1498 571; x_wconf 83' lang='lat' dir='ltr'><strong>DIDASCALIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 487 908 1952 994">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 487 908 1952 994">
+     <span class='ocr_line' id='line_1_2' title="bbox 487 908 1952 994; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 487 908 1252 992; x_wconf 78' lang='lat' dir='ltr'>CONSTITUTIONES</span> <span class='ocrx_word' id='word_1_3' title='bbox 1309 909 1952 994; x_wconf 83' lang='lat' dir='ltr'><strong>APOSTOLORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1113 1286 1334 1325">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1113 1286 1334 1325">
+     <span class='ocr_line' id='line_1_3' title="bbox 1113 1286 1334 1325; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1113 1286 1334 1325; x_wconf 86' lang='lat' dir='ltr'><strong>DDDDDD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1121 2884 1319 2940">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1121 2884 1319 2940">
+     <span class='ocr_line' id='line_1_4' title="bbox 1121 2884 1319 2940; baseline 0.01 -24"><span class='ocrx_word' id='word_1_5' title='bbox 1121 2884 1236 2918; x_wconf 82' lang='lat' dir='ltr'>MDCC</span> <span class='ocrx_word' id='word_1_6' title='bbox 1239 2885 1319 2940; x_wconf 39' lang='lat' dir='ltr'>CCCCC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
